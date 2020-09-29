@@ -75,3 +75,13 @@ html{
    font-size: 3rem;
    font-family: 'Pacifico', cursive;
  }
+ #patrocinio{
+     padding-top: 60rem;
+     justify-content: center;
+     font-size: 2.5rem;
+     background-color: rgb(36, 65, 151);
+ }
+ #patrocinio-p {
+     text-align: center;
+     background-color: #a12c4f;
+ }
